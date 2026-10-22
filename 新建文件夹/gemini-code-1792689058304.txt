@@ -1,0 +1,6 @@
+lightgbm
+yfinance
+pandas
+scikit-learn
+requests
+pytz
